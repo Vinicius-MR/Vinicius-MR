@@ -1,7 +1,6 @@
 ### Oi, eu sou o Marcos Vinicius. 🤙🏽
 
-- 🔭 Atualmente estou em busca do meu primeiro emprego na área da tecnologia!
-- 👨‍💻 Estudando HTML, CSS e JavaScript.
+- 👨‍💻 Estudante de Análise e Desevolvimento de Sistemas.
 - 📫 Contate-me no email: marcosvinicius4188@gmail.com
 - 😄 Pronomes: ele/dele
 
