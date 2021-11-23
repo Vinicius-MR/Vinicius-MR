@@ -14,8 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-MR-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Vinicius-MR-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Vinicius-MR-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Vinicius-MR-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="Vinicius-MR-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="right"  alt="Vinicius-MR-icon" height="200" width="220" src="https://user-images.githubusercontent.com/87537752/133355180-07515aed-2191-4148-b852-9c779b563ebb.png">
 </div>
   
