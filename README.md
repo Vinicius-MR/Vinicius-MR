@@ -1,6 +1,6 @@
 ### Oi, eu sou o Marcos Vinicius. 🤙🏽
 
-- 👨‍💻 Estudante de Análise e Desevolvimento de Sistemas.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 📫 Contate-me no email: marcosvinicius4188@gmail.com
 - 😄 Pronomes: ele/dele
 
